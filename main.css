@@ -1,0 +1,35 @@
+
+img{
+
+  float:left;
+    width: 600px;
+    height: 500px;
+    margin: 3px 12px 0px 0px;
+}
+
+
+
+
+
+h1 {
+    font-size: 70px;
+    font-weight: 600;
+    color:grey ; 
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 250;
+    color:rgb(95, 82, 82);
+}
+
+p{
+    margin:5px;
+    padding:20px;
+    background-color:rgba(238, 238, 238, 0.888);
+    border-style:solid;
+    border-width:1px;
+    text-align:justify;
+    font-size: 2rem; 
+    float:right;
+}
